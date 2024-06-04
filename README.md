@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Andrey
+- 🌱 I’m currently learning a neural network developer course
